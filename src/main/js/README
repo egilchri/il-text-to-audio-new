@@ -1,0 +1,22 @@
+# authentication works because of the ENV variable
+GOOGLE_APPLICATION_CREDENTIALS
+node index.js /Users/egilchri/tools/text-to-speech/python/src/data.190725
+
+afplay new.mp3
+
+
+
+node index.js  /Users/egilchri/Downloads/interlinea/rocky.sv.se.190729
+
+
+node index.js  /Users/egilchri/Documents/interlinea/sv-en/jsons/trump.rocky.sv.se.190730.json
+
+node index.js  /Users/egilchri/Documents/interlinea/sv-en/jsons/rocky-words.json
+
+
+node index.js  /Users/egilchri/Documents/GitHub/il-text-to-speech/python/src/two.json
+
+node index.js  /Users/egilchri/Documents/GitHub/il-text-to-speech/python/src/one.json
+
+
+
